@@ -1,0 +1,10 @@
+id: AM213Q410502LK1
+category: displays
+size: "2.13"
+panel: amoled
+resolution: 410x502
+interface: [mipi]
+driver: ST7801N
+touch: CST820
+outline: 34.79 x 43.14 mm
+active_area: 33.09 x 40.51 mm

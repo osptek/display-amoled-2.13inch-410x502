@@ -1,0 +1,10 @@
+id: AM213Q410502LK
+category: displays
+size: "2.13"
+panel: amoled
+resolution: 410x502
+interface: [qspi]
+driver: CO5300AF-51
+touch: CST820
+outline: 37.50 x 46.30 mm
+active_area: 33.09 x 40.51 mm
