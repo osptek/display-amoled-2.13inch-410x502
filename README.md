@@ -38,7 +38,7 @@
 | 版本 | 宣传图 | 驱动 IC | 触摸驱动 | 接口 | 完整资料 |
 | ---- | ------ | ------- | -------- | ---- | -------- |
 | AM213Q410502LK | <img alt="AM213Q410502LK" src="./versions/AM213Q410502LK/images/PNG-2.png" width="120" /> | CO5300AF-51 | CST820 | QSPI | [完整资料](./versions/AM213Q410502LK/) |
-| AM213Q410502LK1 | <img alt="AM213Q410502LK1" src="./versions/AM213Q410502LK1/images/product.png" width="120" /> | ST7801N | CST820 | MIPI | [完整资料](./versions/AM213Q410502LK1/) |
+| AM213Q410502LK1 | <img alt="AM213Q410502LK1" src="./versions/AM213Q410502LK1/images/recommend-optimized%20%281%29.png" width="120" /> | ST7801N | CST820 | MIPI | [完整资料](./versions/AM213Q410502LK1/) |
 
 ---
 

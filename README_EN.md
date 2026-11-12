@@ -38,7 +38,7 @@ Repo id: `display-amoled-2.13inch-410x502`
 | Version | Image | Driver IC | Touch IC | Interface | Full docs |
 | ------- | ----- | --------- | -------- | --------- | --------- |
 | AM213Q410502LK | <img alt="AM213Q410502LK" src="./versions/AM213Q410502LK/images/PNG-2.png" width="120" /> | CO5300AF-51 | CST820 | QSPI | [Full docs](./versions/AM213Q410502LK/) |
-| AM213Q410502LK1 | <img alt="AM213Q410502LK1" src="./versions/AM213Q410502LK1/images/product.png" width="120" /> | ST7801N | CST820 | MIPI | [Full docs](./versions/AM213Q410502LK1/) |
+| AM213Q410502LK1 | <img alt="AM213Q410502LK1" src="./versions/AM213Q410502LK1/images/recommend-optimized%20%281%29.png" width="120" /> | ST7801N | CST820 | MIPI | [Full docs](./versions/AM213Q410502LK1/) |
 
 ---
 

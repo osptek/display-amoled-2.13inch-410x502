@@ -12,7 +12,7 @@
   <img alt="Touch: CST820" src="https://img.shields.io/badge/Touch-CST820-F39C12?style=flat-square" />
 </p>
 
-<p align="center"><img alt="OSPTEK 2.13&quot; 410×502 AMOLED module product image" src="./images/product.png" width="640" /></p>
+<p align="center"><img alt="OSPTEK 2.13&quot; 410×502 AMOLED module product image" src="./images/recommend-optimized%20%281%29.png" width="640" /></p>
 
 ## Contents
 
