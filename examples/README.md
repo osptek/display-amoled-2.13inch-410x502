@@ -15,7 +15,8 @@ They are reference code; adjust pins, backlight, touch and other settings to you
 | [`esp32p4-idf5-st7801-mipi-lvgl-common-demo`](./esp32p4-idf5-st7801-mipi-lvgl-common-demo/) | ESP32-P4 · ESP-IDF 5 | ST7801 | MIPI | LVGL 综合演示 / LVGL demo |
 | [`esp32p4-idf5-st7801-mipi-lvgl-port-lvgl9`](./esp32p4-idf5-st7801-mipi-lvgl-port-lvgl9/) | ESP32-P4 · ESP-IDF 5 | ST7801 | MIPI | LVGL 9 / LVGL 9 |
 | [`esp32p4-idf5-st7801-mipi-lvgl-port-lvgl9-ppa`](./esp32p4-idf5-st7801-mipi-lvgl-port-lvgl9-ppa/) | ESP32-P4 · ESP-IDF 5 | ST7801 | MIPI | LVGL 9、PPA 硬件加速 / LVGL 9, PPA acceleration |
-| [`esp32p4-idf6-st7801-mipi-lvgl-common-demo`](./esp32p4-idf6-st7801-mipi-lvgl-common-demo/) | ESP32-P4 · ESP-IDF 6 | ST7801 | MIPI | LVGL 综合演示 / LVGL demo |
+| [`esp32p4-idf6_st7801-mipi-410x502_lvgl9_tear-resistant`](./esp32p4-idf6_st7801-mipi-410x502_lvgl9_tear-resistant/) | ESP32-P4 · ESP-IDF 6 | ST7801 | MIPI | LVGL 9+防撕裂 / LVGL 9+ Anti-Tearing |
+| [`esp32p4-idf6_st7801-mipi-410x502_osptek-boot-anim_lvgl9_tear-resistant`](./esp32p4-idf6_st7801-mipi-410x502_osptek-boot-anim_lvgl9_tear-resistant/) | ESP32-P4 · ESP-IDF 6 | ST7801 | MIPI | 开机动画+LVGL 9+防撕裂 / Boot animation + LVGL 9 + anti-tearing | 
 | [`esp32p4-idf6-st7801-mipi-lvgl-port-lvgl9`](./esp32p4-idf6-st7801-mipi-lvgl-port-lvgl9/) | ESP32-P4 · ESP-IDF 6 | ST7801 | MIPI | LVGL 9 / LVGL 9 |
 | [`esp32p4-idf6-st7801-mipi-lvgl-port-lvgl9-ppa`](./esp32p4-idf6-st7801-mipi-lvgl-port-lvgl9-ppa/) | ESP32-P4 · ESP-IDF 6 | ST7801 | MIPI | LVGL 9、PPA 硬件加速 / LVGL 9, PPA acceleration |
 | [`esp32s3-idf5-co5300-qspi-lvgl-adapter-lvgl8`](./esp32s3-idf5-co5300-qspi-lvgl-adapter-lvgl8/) | ESP32-S3 · ESP-IDF 5 | CO5300 | QSPI | LVGL 8 / LVGL 8 |
