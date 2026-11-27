@@ -9,7 +9,6 @@ They are reference code; adjust pins, backlight, touch and other settings to you
 
 | 例程 / Project | 平台 / Platform | 驱动 IC / Driver IC | 接口 / Interface | 说明 / Description |
 |---|---|---|---|---|
-| [`esp32p4-idf-st7801-mipi-eaf-player`](./esp32p4-idf-st7801-mipi-eaf-player/) | ESP32-P4 · ESP-IDF | ST7801 | MIPI | EAF 动画播放 / EAF animation player |
 | [`esp32p4-idf5-cst820-i2c`](./esp32p4-idf5-cst820-i2c/) | ESP32-P4 · ESP-IDF 5 | CST820 | I2C | 触摸 / touch |
 | [`esp32p4-idf5-st7801-mipi-dsi`](./esp32p4-idf5-st7801-mipi-dsi/) | ESP32-P4 · ESP-IDF 5 | ST7801 | MIPI | 显示驱动示例 / display driver demo |
 | [`esp32p4-idf5-st7801-mipi-lvgl-common-demo`](./esp32p4-idf5-st7801-mipi-lvgl-common-demo/) | ESP32-P4 · ESP-IDF 5 | ST7801 | MIPI | LVGL 综合演示 / LVGL demo |
@@ -17,7 +16,6 @@ They are reference code; adjust pins, backlight, touch and other settings to you
 | [`esp32p4-idf5-st7801-mipi-lvgl-port-lvgl9-ppa`](./esp32p4-idf5-st7801-mipi-lvgl-port-lvgl9-ppa/) | ESP32-P4 · ESP-IDF 5 | ST7801 | MIPI | LVGL 9、PPA 硬件加速 / LVGL 9, PPA acceleration |
 | [`esp32p4-idf6_st7801-mipi-410x502_lvgl9_tear-resistant`](./esp32p4-idf6_st7801-mipi-410x502_lvgl9_tear-resistant/) | ESP32-P4 · ESP-IDF 6 | ST7801 | MIPI | LVGL 9+防撕裂 / LVGL 9+ Anti-Tearing |
 | [`esp32p4-idf6_st7801-mipi-410x502_osptek-boot-anim_lvgl9_tear-resistant`](./esp32p4-idf6_st7801-mipi-410x502_osptek-boot-anim_lvgl9_tear-resistant/) | ESP32-P4 · ESP-IDF 6 | ST7801 | MIPI | 开机动画+LVGL 9+防撕裂 / Boot animation + LVGL 9 + anti-tearing | 
-| [`esp32p4-idf6-st7801-mipi-lvgl-port-lvgl9`](./esp32p4-idf6-st7801-mipi-lvgl-port-lvgl9/) | ESP32-P4 · ESP-IDF 6 | ST7801 | MIPI | LVGL 9 / LVGL 9 |
 | [`esp32p4-idf6-st7801-mipi-lvgl-port-lvgl9-ppa`](./esp32p4-idf6-st7801-mipi-lvgl-port-lvgl9-ppa/) | ESP32-P4 · ESP-IDF 6 | ST7801 | MIPI | LVGL 9、PPA 硬件加速 / LVGL 9, PPA acceleration |
 | [`esp32s3-idf5-co5300-qspi-lvgl-adapter-lvgl8`](./esp32s3-idf5-co5300-qspi-lvgl-adapter-lvgl8/) | ESP32-S3 · ESP-IDF 5 | CO5300 | QSPI | LVGL 8 / LVGL 8 |
 | [`esp32s3-idf5-co5300-qspi-lvgl-adapter-lvgl8-te`](./esp32s3-idf5-co5300-qspi-lvgl-adapter-lvgl8-te/) | ESP32-S3 · ESP-IDF 5 | CO5300 | QSPI | LVGL 8、TE 防撕裂 / LVGL 8, TE tear-free |
@@ -25,6 +23,7 @@ They are reference code; adjust pins, backlight, touch and other settings to you
 | [`esp32s3-idf5-co5300-qspi-lvgl-adapter-lvgl9-te`](./esp32s3-idf5-co5300-qspi-lvgl-adapter-lvgl9-te/) | ESP32-S3 · ESP-IDF 5 | CO5300 | QSPI | LVGL 9、TE 防撕裂 / LVGL 9, TE tear-free |
 | [`esp32s3-idf5-co5300-qspi-lvgl8`](./esp32s3-idf5-co5300-qspi-lvgl8/) | ESP32-S3 · ESP-IDF 5 | CO5300 | QSPI | LVGL 8 / LVGL 8 |
 | [`esp32s3-idf5-co5300-qspi-lvgl8-te-rotate90`](./esp32s3-idf5-co5300-qspi-lvgl8-te-rotate90/) | ESP32-S3 · ESP-IDF 5 | CO5300 | QSPI | LVGL 8、TE 防撕裂、软件旋转 90° / LVGL 8, TE tear-free, SW rotate 90° |
+| [`rk3506-buildroot-st7801-mipi-410x502`](./rk3506-buildroot-st7801-mipi-410x502/) | Rockchip RK3506 · Linux | ST7801 | MIPI | 设备树与触摸驱动参考、I2C 触摸驱动添加指南 / Device tree and touch driver reference, I2C touch driver guide |
 | [`rpi5-lvgl-st7801-cst820-410x502`](./rpi5-lvgl-st7801-cst820-410x502/) | Raspberry Pi 5 | ST7801 + CST820 | — | LVGL、触摸 / LVGL, touch |
 | [`rpi5-panel-st7801-410x502`](./rpi5-panel-st7801-410x502/) | Raspberry Pi 5 | ST7801 | — | 面板驱动 / panel driver |
 | [`rpi5-panel-st7801-cst820-410x502`](./rpi5-panel-st7801-cst820-410x502/) | Raspberry Pi 5 | ST7801 + CST820 | — | 面板驱动、触摸 / panel driver, touch |
